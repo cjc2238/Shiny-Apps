@@ -1,0 +1,9 @@
+name: Wikipedia_Search_Application
+account: learninganalytics
+server: shinyapps.io
+appId: 137582
+bundleId: 614536
+url: https://learninganalytics.shinyapps.io/Wikipedia_Search_Application/
+when: 1479158013.67022
+asMultiple: FALSE
+asStatic: FALSE
